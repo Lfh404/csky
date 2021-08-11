@@ -30,4 +30,4 @@ Is the cost of such a policy justified in light of the value that it provides?
 
 ### on the grounds of
 
-### ==shielded by== third-party payers ==from== the cost *of our care
+### shielded by third-party payers from the cost of our care
