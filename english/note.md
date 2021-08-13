@@ -96,6 +96,26 @@ However, whether such a common ... evolved independently in ... , or whether it 
 
 ### it has its way of
 
+## 2006
+
+### do not worry about it fitting into a specific category
+
+### unprecedented level / demand
+
+### it consists of three main aspects. The first aspect is mutual rich fairness view against [equalitarianism](https://cn.bing.com/dict/search?q=equalitarianism).
+
+### [live off](https://cn.bing.com/dict/search?q=live+off) / rely on
+
+### For a goal to be achievied, it must be saturated with personal integrity and ample doses of [follow through](https://cn.bing.com/dict/search?q=follow+through)
+
+### Increased [dexterity](https://cn.bing.com/dict/search?q=dexterity&FORM=BDVSP6&cc=cn) is based on the notion that a jack-of-all-trades is often the matter of none.
+
+### The crop from the filed is as large as guts can yield
+
+### Given that ... is seen as one of the pillars of ... , this is no small ... 
+
+### Some people claims that ... [but more often than not](https://cn.bing.com/dict/search?q=more+often+than+not), the reverse seems to be true.
+
 ## 2012
 
 ### stand in the way of
