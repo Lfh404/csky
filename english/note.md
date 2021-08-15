@@ -106,7 +106,7 @@ However, whether such a common ... evolved independently in ... , or whether it 
 
 ### [live off](https://cn.bing.com/dict/search?q=live+off) / rely on
 
-### For a goal to be achievied, it must be saturated with personal integrity and ample doses of [follow through](https://cn.bing.com/dict/search?q=follow+through)
+### For a goal to be achieved, it must be saturated with personal integrity and ample doses of [follow through](https://cn.bing.com/dict/search?q=follow+through)
 
 ### Increased [dexterity](https://cn.bing.com/dict/search?q=dexterity&FORM=BDVSP6&cc=cn) is based on the notion that a jack-of-all-trades is often the matter of none.
 
@@ -115,6 +115,26 @@ However, whether such a common ... evolved independently in ... , or whether it 
 ### Given that ... is seen as one of the pillars of ... , this is no small ... 
 
 ### Some people claims that ... [but more often than not](https://cn.bing.com/dict/search?q=more+often+than+not), the reverse seems to be true.
+
+## 2007
+
+### it is [noteworthy](https://cn.bing.com/dict/search?q=noteworthy) that
+
+### the phenomenon to [be even more pronounced](https://cn.bing.com/dict/search?q=be+more+pronounced)
+
+### coupled with
+
+### The act of memorizing is <u>more</u> of a cognitive exercise <u>than</u> a intuitive one
+
+### those differences are [swamped by](https://cn.bing.com/dict/search?q=swamped+by&qs=n&form=Z9LH5&sp=-1&pq=swamped+by)
+
+### [put another way](https://cn.bing.com/dict/search?q=put+another+way&qs=n&form=Z9LH5&sp=-1&pq=put+another+way&sc=0-15&sk=&cvid=DBD51E35D59D42708B4973331C6CF85B)
+
+### is responsible for ... on behave of
+
+### Surely it should <u>be obvious to</u> the dimmest executive, that most valuable of economic asses, is easily destroyed and hugely expensive to restore
+
+### <u>few</u> things are <u>more</u> likely to destroy trust <u>than</u> a company letting sensitive personal data get into the wrong hands.
 
 ## 2012
 
