@@ -1,22 +1,24 @@
 ## 2003
 
-### by a large margin
+### [by a large margin](https://cn.bing.com/dict/search?q=by+a+large+margin)
 
 ### vacuum up
 
-### on the chance
+### [on the chance](https://cn.bing.com/dict/search?q=on+the+chance&qs=n&form=Z9LH5&sp=-1&pq=on+the+chan)
 
-### rule out
+### [rule out](https://cn.bing.com/dict/search?q=rule+out)
 
 ### well-meaning
 
-### at best, at worst
+### [at best, at worst](https://cn.bing.com/dict/search?q=at+best+at+worst)
 
 At best he's ambitious, at worst a power-seeker without conscience or qualifications .
 
 ### extinguish the precious embers of
 
 ### accounted for
+
+on the face of it, the measures seem surprising given that foreigners account for only a small part of property investment.
 
 ### causing heightened concerns
 
@@ -28,7 +30,7 @@ Is the cost of such a policy justified in light of the value that it provides?
 
 ### take account of
 
-### on the grounds of
+### [on the grounds of](https://cn.bing.com/dict/search?q=on+the+grounds+of&qs=n&form=Z9LH5&sp=-1&pq=on+the+grounds+of)
 
 ### shielded by third-party payers from the cost of our care
 
@@ -40,7 +42,7 @@ Is the cost of such a policy justified in light of the value that it provides?
 
 ### causal / casual
 
-### keep abreast of
+### [keep abreast of](https://cn.bing.com/dict/search?q=keep+abreast+of)
 
 ### is less well known / less well-known
 
@@ -52,7 +54,7 @@ Is the cost of such a policy justified in light of the value that it provides?
 
 ### leave them vulnerable to
 
-### in the grip(s) of / in the charge of
+### [in the grip(s) of](https://cn.bing.com/dict/search?q=in+the+grips+of) / in the charge of
 
 ### [proclaim / acclaim](https://wikidiff.com/proclaim/acclaim)
 
@@ -60,7 +62,7 @@ Is the cost of such a policy justified in light of the value that it provides?
 
 ### suggests that
 
-### preferable to
+### it is preferable to
 
 ### are reluctant to
 
