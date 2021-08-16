@@ -138,6 +138,26 @@ However, whether such a common ... evolved independently in ... , or whether it 
 
 ### <u>few</u> things are <u>more</u> likely to destroy trust <u>than</u> a company letting sensitive personal data get into the wrong hands.
 
+## 2008
+
+### ... was to demonstrate that it was feasible to
+
+### heavy 沉重
+
+### a key element of this <u>exercise</u> is to <u>build consensus</u>.
+
+### [by and large](https://cn.bing.com/dict/search?q=by+and+large&qs=n&form=Z9LH5&sp=-1&pq=by+and+large)
+
+<u>Although</u> there was an occasional classic French, <u>or</u> a semblance of Italian, <u>by and large</u> it was a gastronomic desert.
+
+### [part with](https://cn.bing.com/dict/search?q=part+with)
+
+### [on the spur of / win/earn yours spurs](https://cn.bing.com/dict/search?q=spurred&qs=n&form=Z9LH5&sp=-1&pq=spurred&sc=2-7&sk=&cvid=1AF800DFFFB449B698DB6E1453E34A7D)
+
+### [in essence](https://cn.bing.com/dict/search?q=in+essence&qs=n&form=Z9LH5&sp=-1&pq=in+essence&sc=1-10&sk=&cvid=224F2CFE14F5482E9E183BD18A8BB2A4)
+
+### overcome the strong opposition of ... to
+
 ## 2012
 
 ### stand in the way of
