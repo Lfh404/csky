@@ -158,6 +158,42 @@ However, whether such a common ... evolved independently in ... , or whether it 
 
 ### overcome the strong opposition of ... to
 
+## 2009
+
+### at odds
+
+### vanity is constant
+
+### satire / siren
+
+### extravagant / exaggerate / egregious / eligible
+
+### if you reach for a goal, you may not get there, but at least you will get a lot further than if you had not reached at all.
+
+### [herd](https://cn.bing.com/dict/search?q=herd) / nerd / herb / curb
+
+### [connotation](https://cn.bing.com/dict/search?q=connotation)
+
+### work through ... in ways of
+
+### shell out (money) for 
+
+### ranging in ...(price) from ... to ...
+
+### put up for
+
+### subject to
+
+### deride
+
+### [groundless](https://cn.bing.com/dict/search?q=groundless) / unsupported / unjustified / [unfounded](https://cn.bing.com/dict/search?q=unfounded)
+
+is subject to groundless doubtless
+
+### [on account of](https://cn.bing.com/dict/search?q=on account of)
+
+### [one wonders](https://cn.bing.com/dict/search?q=one wonders)
+
 ## 2012
 
 ### stand in the way of
