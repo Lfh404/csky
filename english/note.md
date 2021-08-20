@@ -160,7 +160,7 @@ However, whether such a common ... evolved independently in ... , or whether it 
 
 ## 2009
 
-### at odds
+### [at odds](https://cn.bing.com/dict/search?q=at+odds)
 
 ### vanity is constant
 
@@ -182,6 +182,8 @@ However, whether such a common ... evolved independently in ... , or whether it 
 
 ### put up for
 
+items are put up for sale
+
 ### subject to
 
 ### deride
@@ -192,7 +194,35 @@ is subject to groundless doubtless
 
 ### [on account of](https://cn.bing.com/dict/search?q=on account of)
 
-### [one wonders](https://cn.bing.com/dict/search?q=one wonders)
+### [one wonders](https:/far /cn.bing.com/dict/search?q=one wonders)
+
+## 2010
+
+### It is difficult to the point of impossibility for
+
+### consist in large part of
+
+### to read such books today is to marvel at the fact that ...
+
+### post / job
+
+### It was taken for granted that
+
+### in detail / at length
+
+### scale back
+
+### in the wake of
+
+What helped me most, working with him, is that I <u>got caught up</u> in the wake of his confidence and determination.
+
+### with ... looming / a looming threat
+
+with the threat of pandemic influenza looming
+
+### prevail against / in / prevailing
+
+### the idea is intuitively compelling
 
 ## 2012
 
