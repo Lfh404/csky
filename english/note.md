@@ -192,9 +192,9 @@ items are put up for sale
 
 is subject to groundless doubtless
 
-### [on account of](https://cn.bing.com/dict/search?q=on account of)
+### [on account of](https://cn.bing.com/dict/search?q=on%20account%20of)
 
-### [one wonders](https:/far /cn.bing.com/dict/search?q=one wonders)
+### [one wonders](https://cn.bing.com/dict/search?q=one+wonders)
 
 ## 2010
 
@@ -223,6 +223,32 @@ with the threat of pandemic influenza looming
 ### prevail against / in / prevailing
 
 ### the idea is intuitively compelling
+
+## 2011
+
+### [a trying time](https://cn.bing.com/dict/search?q=a+trying+time)
+
+### concur with / consent to
+
+### is (no) substitute for
+
+### Merely doing ... , will not be enough.
+
+### If you were to succeed, you must first do ...
+
+### Opportunities [abound for](https://cn.bing.com/dict/search?q=abound+for&qs=n&form=Z9LH5&sp=-1&pq=abound+for) further discoveries.
+
+### He now expects the amount to be scaled back given indications demand [is fading for](https://cn.bing.com/dict/search?q=is+fading+for&qs=n&form=Z9LH5&sp=-1&pq=is+fading+for) the debt.
+
+### [take hold](https://cn.bing.com/dict/search?q=take+hold)
+
+For such a spirit to take hold, it must become an integral part of the company's culture.
+
+### the very things that in the moment dampen our moods can later be the sources of intense gratification and delight.
+
+### It seem ... , to compare the ... to the ...
+
+soothing
 
 ## 2012
 
