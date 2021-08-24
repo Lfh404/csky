@@ -252,7 +252,9 @@ soothing
 
 ## 2012
 
-### stand in the way of
+### [stand in the way of](https://cn.bing.com/dict/search?q=stand+in+the+way+of&qs=n&form=Z9LH5&sp=-1&pq=stand+in+the+way+of&sc=1-19&sk=&cvid=CC57A91AC4FE47B78A25D4CFBCB121F4)
+
+### [a host of](https://cn.bing.com/dict/search?q=a+host+of)
 
 ### at the level of
 
@@ -263,3 +265,25 @@ is notoriously difficult in terms of
 ### drawn-out
 
 ### clamp down
+
+### [spot-on](https://cn.bing.com/dict/search?q=spot+on)
+
+### a seriously flawed understanding of
+
+### take a page from
+
+### the most glaring flaw of the social as it is presented here is that
+
+### There is no doubt that ... exert enormous influences on
+
+### [beside the point](https://cn.bing.com/dict/search?q=beside+the+point)
+
+### Opportunities for misinterpretation, error, and self-deception <u>abound</u>.
+
+### [drawn-out](https://cn.bing.com/dict/search?q=drawn-out)
+
+### merit pay
+
+### clamp down
+
+A looming question is whether a restrictive Chinese government might clamp down on its ability to [cover](https://cn.bing.com/dict/search?q=cover) stories away from the sports arenas.
