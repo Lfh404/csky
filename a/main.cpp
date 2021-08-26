@@ -1,48 +1,55 @@
 #include<iostream>
-#include<cstring>
+#include<cmath>
+#include<vector>
 using namespace std;
-int m, n, l, t, G[65][1300][130], cnt;
-int volume=0;
-int xi[6] = {0, 0, 1,-1, 0, 0};
-int yi[6] = {0, 0, 0, 0, 1,-1};
-int zi[6] = {1,-1, 0, 0, 0, 0};
-bool vis[65][1300][130];
+int maxsum = -1;
+vector<int> factor, dfsnum, res, temp;
+bool flag = true;
 
-void dfs(int a, int b, int c) {
-	if(a<0||a>=l || b<0||b>=m || c<0||c>=n) return ;
-	vis[a][b][c] = true;
-	cnt++;
-	for(int i=0;  i<3; i++) {
-		int x=a+xi[i], y=b+yi[i], z=c+zi[i];
-		if(!vis[x][y][z] && G[x][y][z]) {
-			dfs(x, y, z);
+void dfs(int n, int k, int sum) {
+	if(n<0 || k<0) return;
+	if(n==0 && k==0) {
+		if(flag) {
+			res=temp;
+			flag = false;
+		} else {
+			if(maxsum < sum) {
+				maxsum = sum;
+				res = temp;
+			} 
+//			else if(maxsum == sum) {
+//				for(int i=temp.size()-1; i>=0; i--) {
+//					if(temp[i]>res[i]) {
+//						res = temp;kllll
+//					}
+//					if(temp[i]<res[i]) return;
+//				}
+//			}
 		}
+	}
+	int s = temp.size();
+	for(int i=0; i<factor.size(); i++) {
+		if(s!=0 && temp[s-1]<factor[i]) continue;
+		temp.push_back(factor[i]);
+		dfs(n-dfsnum[i], k-1, sum+factor[i]);
+		temp.pop_back();
 	}
 }
 
 int main() {
 	freopen("a.in", "r", stdin);
-	scanf("%d%d%d%d", &m, &n, &l, &t);
-	for(int i=0; i<l; i++) {
-		for(int j=0; j<m; j++) {
-			for(int k=0; k<n; k++) {
-				scanf("%d", &G[i][j][k]);
-			}
-		}
+	int n, k, p;
+	scanf("%d%d%d", &n, &k, &p);
+	for(int i=1; pow(i, p)<=n; i++) {
+		factor.push_back(i);
+		dfsnum.push_back(pow(i, p));
 	}
-	memset(vis[0][0], 0, 65*1300*130);
-	for(int i=0; i<l; i++) {
-		for(int j=0; j<m; j++) {
-			for(int k=0; k<n; k++) {
-				if(!vis[i][j][k] && G[i][j][k]) {
-					cnt=0;
-					dfs(i,j,k);
-					printf("%d\n", cnt);
-					if(cnt >= t) volume += cnt;
-				}
-			}
-		}
+	dfs(n, k, 0);
+	printf("%d =", n);
+	for(int i=0; i<res.size(); i++) {
+		if(i) printf(" +");
+		printf(" %d^%d", res[i],p);
 	}
-	printf("%d", volume);
+	printf("\n%d\n", maxsum);
 	return 0;
 }
