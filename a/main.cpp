@@ -1,55 +1,42 @@
 #include<iostream>
-#include<cmath>
-#include<vector>
+#include<string>
 using namespace std;
-int maxsum = -1;
-vector<int> factor, dfsnum, res, temp;
-bool flag = true;
-
-void dfs(int n, int k, int sum) {
-	if(n<0 || k<0) return;
-	if(n==0 && k==0) {
-		if(flag) {
-			res=temp;
-			flag = false;
-		} else {
-			if(maxsum < sum) {
-				maxsum = sum;
-				res = temp;
-			} 
-//			else if(maxsum == sum) {
-//				for(int i=temp.size()-1; i>=0; i--) {
-//					if(temp[i]>res[i]) {
-//						res = temp;kllll
-//					}
-//					if(temp[i]<res[i]) return;
-//				}
-//			}
-		}
-	}
-	int s = temp.size();
-	for(int i=0; i<factor.size(); i++) {
-		if(s!=0 && temp[s-1]<factor[i]) continue;
-		temp.push_back(factor[i]);
-		dfs(n-dfsnum[i], k-1, sum+factor[i]);
-		temp.pop_back();
-	}
-}
+int count[1010];
+bool stucked[400], exclude[400], printed[400];
 
 int main() {
-	freopen("a.in", "r", stdin);
-	int n, k, p;
-	scanf("%d%d%d", &n, &k, &p);
-	for(int i=1; pow(i, p)<=n; i++) {
-		factor.push_back(i);
-		dfsnum.push_back(pow(i, p));
+// 	freopen("a.in", "r", stdin);
+	int k;
+	string s;
+	scanf("%d\n", &k);
+	getline(cin, s);
+	int stt = 0, cnt = 1, i;
+	char pre = s[0];
+	for(i=1; i<s.size(); i++) {
+		if(s[i]==pre) cnt++;
+		else {
+			while(stt<i) {
+				count[stt++] = cnt;
+			}
+			cnt = 1;
+			pre = s[i];
+		}
 	}
-	dfs(n, k, 0);
-	printf("%d =", n);
-	for(int i=0; i<res.size(); i++) {
-		if(i) printf(" +");
-		printf(" %d^%d", res[i],p);
+	while(stt<i) count[stt++] = cnt;
+	for(int i=0; i<s.size(); i++) {
+		if(count[i]%k==0 && !exclude[s[i]]) stucked[s[i]] = true;
+		if(count[i] % k) exclude[s[i]] =  true;
 	}
-	printf("\n%d\n", maxsum);
+	for(int i=0; i<s.size(); i++) {
+		if(stucked[s[i]] && !exclude[s[i]] && !printed[s[i]]) {
+			printf("%c", s[i]);
+			printed[s[i]] = true;
+		}
+	}
+	printf("\n");
+	for(int i=0; i<s.size(); i++) {
+		printf("%c", s[i]);
+		if(stucked[s[i]] && i+2<s.size() && s[i+2]==s[i] && !exclude[s[i]]) i+=k-1;
+	}
 	return 0;
 }
