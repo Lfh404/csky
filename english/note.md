@@ -287,3 +287,6 @@ is notoriously difficult in terms of
 ### clamp down
 
 A looming question is whether a restrictive Chinese government might clamp down on its ability to [cover](https://cn.bing.com/dict/search?q=cover) stories away from the sports arenas.
+
+## 2013
+
