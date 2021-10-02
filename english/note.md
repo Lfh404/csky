@@ -252,9 +252,15 @@ soothing
 
 ## 2012
 
+### use the power of ... to help individuals improve their lives
+
 ### [stand in the way of](https://cn.bing.com/dict/search?q=stand+in+the+way+of&qs=n&form=Z9LH5&sp=-1&pq=stand+in+the+way+of&sc=1-19&sk=&cvid=CC57A91AC4FE47B78A25D4CFBCB121F4)
 
 ### [a host of](https://cn.bing.com/dict/search?q=a+host+of)
+
+### skilled at
+
+The only way you get skilled at something is to practice
 
 ### at the level of
 
@@ -289,4 +295,28 @@ is notoriously difficult in terms of
 A looming question is whether a restrictive Chinese government might clamp down on its ability to [cover](https://cn.bing.com/dict/search?q=cover) stories away from the sports arenas.
 
 ## 2013
+
+### Advances in technology have allowed ... to 
+
+### the victims / benefit of ... , is not limited to ...
+
+### curb impact on
+
+### start off (with) / set off / pull off
+
+### [stick with / in](https://cn.bing.com/dict/search?q=stick)
+
+### [stuck with / for / on](https://cn.bing.com/dict/search?q=stuck)
+
+### [worse off](https://cn.bing.com/dict/search?q=worse off)
+
+### by no means / not in the slighted 
+
+### [a deeper appreciation of](https://cn.bing.com/dict/search?q=a deeper appreciation of)
+
+Reading the classics develops an understanding of the human condition  and a deeper appreciation of modern problems.
+
+### [knock off](https://cn.bing.com/dict/search?q=knock+off)
+
+It's easy to knock off the tasks on a list; it's hard to cope with that sense of having too much work and nowhere near enough time
 
