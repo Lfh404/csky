@@ -308,7 +308,7 @@ A looming question is whether a restrictive Chinese government might clamp down 
 
 ### [stuck with / for / on](https://cn.bing.com/dict/search?q=stuck)
 
-### [worse off](https://cn.bing.com/dict/search?q=worse off)
+### [worse off](https://cn.bing.com/dict/search?q=worse+off)
 
 ### by no means / not in the slighted 
 
