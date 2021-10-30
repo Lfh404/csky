@@ -248,7 +248,7 @@ For such a spirit to take hold, it must become an integral part of the company's
 
 ### It seem ... , to compare the ... to the ...
 
-soothing
+### soothing
 
 ## 2012
 
