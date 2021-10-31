@@ -320,3 +320,43 @@ Reading the classics develops an understanding of the human condition  and a dee
 
 It's easy to knock off the tasks on a list; it's hard to cope with that sense of having too much work and nowhere near enough time	
 
+## 2014
+
+### Only if the ... , do sth, will they be eligible for benefit.
+
+### be excluded from from the environment that offers purpose and structure in the life.
+
+### first instinct is to fall into dependency
+
+### it is as though long time of ever-tougher reforms of ... never happened.
+
+### there are few places where clients have more grounds for complaint.
+
+### there are many reasons for this. One is the excessive costs of ... . The other reason why ... is the.
+
+### Keeping outsiders out of ... , isolates () from the pressure to () rather than ()
+
+### is indeed an ... 
+
+### a string of
+
+### draw attention to those who
+
+### a handful of
+
+### you can not buy class, as the old saying goes, and (confirm the old saying)
+
+### cement the status quo of
+
+### sth, deserves praise for affirming the importance of (), regrettably, however, may cause more harm than good.
+
+### these ... are exceptions to the norm
+
+### sifted from rubble
+
+### ... means different things to different people and sometimes even different things to the same person at different moments of his life.
+
+### It may be .... , but in any case it must, in my view, have something to do with the soul of (the human being)
+
+### I believe it is precisely ... that is the ...
+
