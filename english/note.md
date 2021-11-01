@@ -360,3 +360,20 @@ It's easy to knock off the tasks on a list; it's hard to cope with that sense of
 
 ### I believe it is precisely ... that is the ...
 
+## 2016
+
+### such measures have a couple of uplifting motives
+
+### in contrast to
+
+### relying on the (ethical persuasion) rather law to address the misuse of ... may be the best step.
+
+### even better would be to elevate notions of ... beyond the 
+
+### [struck terror into](https://cn.bing.com/dict/search?q=struck+terror+into)
+
+### what is true of ... is (even truer / also true) of the ...
+
+### (development) should be planed, not let rip
+
+### As you will come to see, (knowing that ... is always available) and (knowing to ...) allows us to (slow down to the moment and live happily)
