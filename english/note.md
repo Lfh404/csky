@@ -360,6 +360,32 @@ It's easy to knock off the tasks on a list; it's hard to cope with that sense of
 
 ### I believe it is precisely ... that is the ...
 
+## 2015
+
+### It is this apparent transcendence of ... that explains ... continuing popularity 
+
+### counterpart
+
+### at a time when ... are warning of ... , it is bizarre that ... still be the ... 
+
+### refrain from
+
+### accessing the implications of new and rapidly changing (technologies)
+
+### should take steps to ...
+
+### it would not be overly burdensome for (authorities) to ...
+
+### allow room for
+
+### are entitled to
+
+with our own (resources), we are in a strong financial situation and we are entitled to be very proud of that.
+
+### The impact will not only be through ..., but hopefully through
+
+### ... has some merits but a weakness is that
+
 ## 2016
 
 ### such measures have a couple of uplifting motives
@@ -377,3 +403,6 @@ It's easy to knock off the tasks on a list; it's hard to cope with that sense of
 ### (development) should be planed, not let rip
 
 ### As you will come to see, (knowing that ... is always available) and (knowing to ...) allows us to (slow down to the moment and live happily)
+
+## 2017
+
